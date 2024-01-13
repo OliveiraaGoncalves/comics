@@ -9,6 +9,8 @@ O Comic é uma aplicação Android modularizada que utiliza boas práticas de pr
 - **domain**: layer do domínio contendo os casos de uso e lógica de negócios.
 - **presentation**: layer que contém interfaces de usuário comuns, como widgets personalizados e extensões.
 - **core-network**: Módulo que contém as implementações necessárias para realizar uma comunicação com a api.
+  
+<img width="894" alt="Captura de Tela 2023-08-12 às 10 22 56" src="https://github.com/OliveiraaGoncalves/comics/assets/20058035/a3bee3f7-3d2a-42be-8a92-dbfe4bf9c978">
 
 ## Pré-requisitos
 
